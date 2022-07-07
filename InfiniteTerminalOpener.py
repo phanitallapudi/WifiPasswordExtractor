@@ -6,3 +6,5 @@ import os
 
 while True:
     os.system('start')
+
+#to exit code just end the script in the task manager
