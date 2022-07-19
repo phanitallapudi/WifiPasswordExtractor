@@ -1,3 +1,5 @@
+#pip install pynput
+
 import pynput, os
 from pynput.keyboard import Key, Listener
 import subprocess as sp
